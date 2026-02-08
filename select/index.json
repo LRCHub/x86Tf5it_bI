@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Thread & Needle / The BONEZ - Music Video-",
+  "base_artist": "The BONEZ",
+  "createdAt": "2026-02-08T14:05:17.647479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thread",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/01_Thread_Keane.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thread",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/02_Thread_Keane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Needle & Thread",
+      "artist": "Benoît Pioulard",
+      "has_synced": false,
+      "path": "select/03_Needle_&_Thread_Benoît_Pioulard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Needle and Thread",
+      "artist": "Psapp",
+      "has_synced": true,
+      "path": "select/04_Needle_and_Thread_Psapp.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Needle & Thread",
+      "artist": "The Reign of Kindo",
+      "has_synced": true,
+      "path": "select/05_Needle_&_Thread_The_Reign_of_Kindo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Needle & Thread",
+      "artist": "Psapp",
+      "has_synced": true,
+      "path": "select/06_Needle_&_Thread_Psapp.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Needle & Thread",
+      "artist": "Lit",
+      "has_synced": false,
+      "path": "select/07_Needle_&_Thread_Lit.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thread",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/08_Thread_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thread",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/09_Thread_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sticky Thread",
+      "artist": "Local Natives",
+      "has_synced": true,
+      "path": "select/10_Sticky_Thread_Local_Natives.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beggin For Thread",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/11_Beggin_For_Thread_BANKS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Begging For Thread",
+      "artist": "Banks",
+      "has_synced": true,
+      "path": "select/12_Begging_For_Thread_Banks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dark Leaves Form a Thread",
+      "artist": "Destroyer",
+      "has_synced": true,
+      "path": "select/13_Dark_Leaves_Form_a_Thread_Destroyer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dark Leaves From A Thread",
+      "artist": "Destroyer",
+      "has_synced": true,
+      "path": "select/14_Dark_Leaves_From_A_Thread_Destroyer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hanging by a Thread",
+      "artist": "Mike + The Mechanics",
+      "has_synced": false,
+      "path": "select/15_Hanging_by_a_Thread_Mike_+_The_Mechanics.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thread of Light",
+      "artist": "Pale Saints",
+      "has_synced": false,
+      "path": "select/16_Thread_of_Light_Pale_Saints.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Thread Of Evermore",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/17_The_Thread_Of_Evermore_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A Thread Cut With A Carving Knife",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/18_A_Thread_Cut_With_A_Carving_Knife_Stars.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "A Thread to Find",
+      "artist": "Shannon Lay",
+      "has_synced": true,
+      "path": "select/19_A_Thread_to_Find_Shannon_Lay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thread & Needle",
+      "artist": "The BONEZ",
+      "has_synced": false,
+      "path": "select/pl_01_Thread_&_Needle_The_BONEZ.txt"
+    }
+  ]
+}
